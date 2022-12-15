@@ -1,0 +1,36 @@
+*{
+  /* border: 1px solid red; */
+  scroll-behavior: smooth;
+}
+
+.white-border{
+  border: 1px solid #fff;
+}
+
+.black-border{
+  border: 3px solid #000;
+  border-collapse: collapse;
+}
+
+.logo{
+  height: 100px;
+}
+
+.sitting-lady-bg{
+  background-image: url("../images/black-woman-sitting-on-floor-reading-pile-of-books-BLEF05218.jpg");
+}
+
+.clean-bg{
+  background-size: cover;
+  background-position: top;
+  background-repeat: no-repeat;
+}
+
+.try-3{
+  height:60vh;
+
+}
+
+.fs-7{
+  font-size: 1.3rem;
+}
